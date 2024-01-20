@@ -10,8 +10,8 @@ import time
 import ssl
 
 webappdata_global = ""
-api_id = 123 # your api id
-api_hash = "123" # your api hash
+api_id = 29879299 # your api id
+api_hash = "2ddaebbec59bbd2fc46e861327258998" # your api hash
 client = TelegramClient("cheat",api_id,api_hash).start()
 
 
